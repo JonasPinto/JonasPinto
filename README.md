@@ -44,7 +44,7 @@ Experiments related to key search, cryptographic algorithms and performance.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/jonas-pinto-205461286">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
