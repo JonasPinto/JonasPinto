@@ -21,6 +21,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-%23F26207.svg?style=for-the-badge&logo=replit&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-Local%20AI-blue?style=for-the-badge)
+![Linux Mint Debian Edition](https://img.shields.io/badge/Linux%20Mint%20Debian%20Edition-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
 ## Featured Projects
 
 🔹 **Memory Inspection Tool**
