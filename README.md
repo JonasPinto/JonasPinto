@@ -6,7 +6,7 @@
 ## Featured Projects
 
 🔹 **Memory Inspection Tool**
-Technical tool to analyze shallow and deep memory consumption in Python.
+Technical tool to analyze shallow and deep memory consumption.
 
 🔹 **Computational Efficiency Simulator**
 Simulator to evaluate computational cost based on memory usage.
