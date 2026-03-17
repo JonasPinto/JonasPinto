@@ -18,8 +18,8 @@ Experiments related to key search, cryptographic algorithms and performance.
 ## Technical Interests
 
 * Cryptography
-* Systems Programming
-* Performance Analysis
+* Systems Programming 
+* Computational Performance
 * Artificial Intelligence
 
 ## 📫 Contact
