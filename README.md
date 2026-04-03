@@ -21,7 +21,8 @@ Experiments related to key search, cryptographic algorithms and performance.
 * Systems Programming 
 * Computational Performance
 * Artificial Intelligence
-
+* Quality Assurance
+  
 ## 📫 Contact
 
 <p align="center">
